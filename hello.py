@@ -1,2 +1,2 @@
 #1/usr/bin/env
-hello
+put hello
